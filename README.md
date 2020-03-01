@@ -1,4 +1,8 @@
+The tutorial for this repo, i.e. Transformers library: https://towardsdatascience.com/https-medium-com-chaturangarajapakshe-text-classification-with-transformer-models-d370944b50ca
+
 This repository is now deprecated. Please use [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers) instead.
+
+The tutorial for Simple Transformers: https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3
 
 # Update Notice
 
